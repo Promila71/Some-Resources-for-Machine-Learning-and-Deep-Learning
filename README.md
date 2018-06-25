@@ -5,10 +5,8 @@ https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 2. Differential Equation:
 https://www.khanacademy.org/math/differential-equations
 
-
 3. Multivaribal Calculus: 
 https://www.khanacademy.org/math/multivariable-calculus
-
 
 4.Statistics and probability: 
 https://www.khanacademy.org/math/statistics-probability
